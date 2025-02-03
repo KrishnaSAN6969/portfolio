@@ -1,58 +1,67 @@
-# Krishna Sanjay Vaddi | Data Science & Analytics 🚀
+# 🚀 Krishna Sanjay Vaddi | Data Science & Analytics  
 
-📍 Delray Beach, FL | 📧 [Email](mailto:krishnasanjayvaddi2@gmail.com) | 🔗 [GitHub](https://github.com/KrishnaSAN6969) | 🔗 [LinkedIn](#)
+![Profile Image](ME.jpg)  
 
----
-
-## 🏆 About Me
-I'm a **Data Scientist & AI Enthusiast** with expertise in **Machine Learning, Deep Learning, Data Visualization, and Predictive Analytics**. 
-
-### 🔹 Key Skills
-- **Programming**: Python, SQL
-- **Machine Learning**: Data Mining, Predictive Modeling
-- **Visualization**: Power BI, Matplotlib, Seaborn
+📍 *Delray Beach, FL*  
+✉️ [Email](mailto:krishnasanjayvaddi2@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile) | 💻 [GitHub](https://github.com/KrishnaSAN6969)  
 
 ---
 
-## 📂 Featured Projects
+## 🏆 About Me  
+I’m a **Data Scientist & AI Enthusiast** passionate about **Machine Learning, Deep Learning, Data Visualization, and Predictive Analytics**.  
 
-### 🏥 **Diabetic Retinopathy Detection**
-- **Deep Learning Model** using `ResNet-150` for medical image classification.
-- Applied `computer vision` and `multimodal data fusion`.
-
-### 📊 **HR Dashboard with Power BI**
-- Designed an **interactive HR analytics dashboard** to track performance.
-- Integrated **multi-source data** and built **drill-down visualizations**.
-
-### 🔍 **Fake News Detection (NLP)**
-- Built a **logistic regression model** to classify fake news.
-- Applied **NLP techniques**, including tokenization and TF-IDF.
-
-🔗 **See more projects on** [GitHub](https://github.com/KrishnaSAN6969)
+💡 Always eager to work on challenging projects and solve real-world problems using data!  
 
 ---
 
-## 💼 Work Experience
-**Machine Learning Intern | RedFiber, Mumbai** _(Apr 2023 – Jul 2023)_
-- Built **Aizer AI System** for Fake News Detection.
-- Applied **NLP, machine learning, and logistic regression**.
+## 🔧 Key Skills  
+- **Programming:** Python, SQL  
+- **Machine Learning:** Data Mining, Predictive Modeling  
+- **Visualization:** Power BI, Matplotlib, Seaborn  
 
 ---
 
-## 🎓 Education
-📌 **M.S. Data Science & Analytics** – Florida Atlantic University (2024 – Present)  
-📌 **B.Tech Computer Science & Business Systems** – Bharati Vidyapeeth (2020 – 2024)  
+## 🚀 Featured Projects  
+
+### **🩺 Diabetic Retinopathy Detection**  
+- Developed a **Deep Learning Model** using `ResNet-150` for medical image classification.  
+- Applied **computer vision** and **multimodal data fusion**.  
+- [🔗 View on GitHub](https://github.com/KrishnaSAN6969/diabetic-retinopathy)  
+
+### **📊 HR Dashboard with Power BI**  
+- Designed an **interactive analytics dashboard** to track HR performance.  
+- Integrated **multi-source data** and built **drill-down visualizations**.  
+- [🔗 View on GitHub](https://github.com/KrishnaSAN6969/hr-dashboard)  
+
+### **📰 Fake News Detection (NLP)**  
+- Built a **logistic regression model** to classify fake news.  
+- Applied **NLP techniques**, including tokenization and TF-IDF.  
+- [🔗 View on GitHub](https://github.com/KrishnaSAN6969/fake-news-detection)  
+
+💻 **See more projects on [GitHub](https://github.com/KrishnaSAN6969?tab=repositories)**  
 
 ---
 
-## 📜 Publications
-📖 **Enhancements in the World of Digital Forensics** – _IJ-AI_  
-🔗 [Read Here](http://doi.org/10.11591/ijai.v13.i1.pp680-686)
+## 💼 Work Experience  
+🔹 **Machine Learning Intern** @ RedFiber, Mumbai *(Apr 2023 - Jul 2023)*  
+- Worked on **feature engineering, data visualization, and predictive analytics**.  
 
 ---
 
-## 📬 Get in Touch  
-📧 **Email:** [krishnasanjayvaddi2@gmail.com](mailto:krishnasanjayvaddi2@gmail.com)  
-🔗 **GitHub:** [KrishnaSAN6969](https://github.com/KrishnaSAN6969)  
+## 📜 Certifications  
+- **Python for Data Science & Machine Learning Bootcamp** – Udemy  
+- **EDA Real-World Exercises** – Udemy  
 
+---
 
+## 📚 Publications  
+- **Enhancements in the World of Digital Forensics** – *Jr-AI*  
+
+---
+
+## 📩 Get in Touch  
+🚀 Feel free to connect and collaborate on exciting projects!  
+
+📧 **Email:** krishnasanjayvaddi@gmail.com  
+🔗 **LinkedIn:** [Profile](https://www.linkedin.com/in/yourprofile)  
+💻 **GitHub:** [KrishnaSAN6969](https://github.com/KrishnaSAN6969)  
