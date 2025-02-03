@@ -1,5 +1,36 @@
+# Site Settings
 title: Krishna Sanjay Vaddi
-logo: /ME.jpg
-#description: text below image
+tagline: "Data Science & AI Enthusiast 🚀"
+description: "Exploring Machine Learning, Deep Learning, and Data Visualization."
+url: "https://KrishnaSAN6969.github.io"  # Change this to your GitHub Pages URL
+baseurl: ""  # Leave empty if using root domain
+logo: "/ME.jpg"  # Add your image in the root directory
+
+# Theme Settings
+remote_theme: cotes2020/jekyll-theme-chirpy
+lang: en
+timezone: America/New_York  # Change this based on your time zone
+
+# Navbar & Footer
+github:
+  username: KrishnaSAN6969  # Your GitHub username
+social:
+  email: krishnasanjayvaddi@gmail.com
+  linkedin: krishna-sanjay-vaddi  # Add your LinkedIn username
+  twitter: your_twitter_handle  # If available
+
+# UI Customization
 show_downloads: true
-theme: jekyll-theme-minimal
+theme_color: "#1E90FF"  # Customize theme color
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-archives
+
+# Build Settings
+markdown: kramdown
+highlighter: rouge
+paginate: 5
+paginate_path: "/page:num/"
