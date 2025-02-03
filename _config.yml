@@ -3,3 +3,4 @@ logo: /ME.jpg
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
+custom_css: assets/css/custom.css
