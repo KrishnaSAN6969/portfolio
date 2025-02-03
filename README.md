@@ -1,6 +1,5 @@
 # 🚀 Krishna Sanjay Vaddi | Data Science & Analytics  
-
-![Profile Image](ME.jpg)  
+ 
 
 📍 *Delray Beach, FL*  
 ✉️ [Email](mailto:krishnasanjayvaddi2@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile) | 💻 [GitHub](https://github.com/KrishnaSAN6969)  
