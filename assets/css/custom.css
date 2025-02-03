@@ -1,0 +1,13 @@
+/* Change background color */
+body {
+    background-color: #f4f4f4; /* Light gray - Change this to any color */
+    color: #333; /* Adjust text color for contrast */
+}
+
+/* Style main content container */
+.wrapper {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
