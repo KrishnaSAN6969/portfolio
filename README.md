@@ -3,7 +3,7 @@
  
 
 📍 Delray Beach, Florida, USA | 📧 [krishnasanjayvaddi2@gmail.com](mailto:krishnasanjayvaddi2@gmail.com)  
-🔗 [GitHub](https://github.com/KrishnaSAN6969) | 🔗 [LinkedIn](#)  
+🔗 [GitHub](https://github.com/KrishnaSAN6969) | 🔗 [LinkedIn](www.linkedin.com/in/krishna-sanjay-vaddi)  
 
 ---
 
