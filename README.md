@@ -10,7 +10,7 @@
 ## 🛠 Skills  
 - **Programming:** Python, SQL  
 - **Machine Learning:** Predictive Modeling, Data Mining, Deep Learning  
-- **Data Visualization:** Power BI, Matplotlib, Seaborn  
+- **Data Visualization:** Power BI, Matplotlib, Seaborn  , Tableau
 - **Data Analytics:** Statistical Analysis, Performance Indicators, Data Collection  
 - **Soft Skills:** Creative Thinking, Flexibility, Problem-Solving  
 
